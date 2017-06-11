@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 .defaultToFrontFacing(false)
                 .labelConfirm(R.string.mcam_use_video)
                 .autoRecordWithDelayMs(1000)
-                .countdownSeconds(10f);
+                .countdownSeconds(13f);
         materialCamera.start(CAMERA_RQ);
     }
 
@@ -63,19 +63,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             saveDir.mkdirs();
         }
 
-        MaterialCamera materialCamera = new MaterialCamera(this)
-                .saveDir(saveDir)
-                .countdownImmediately(true)
-                .showPortraitWarning(false)
-                .allowRetry(true)
-                .defaultToFrontFacing(false)
-                .allowRetry(true)
-                .autoSubmit(false)
-                .labelConfirm(R.string.mcam_use_video)
-                .autoRecordWithDelaySec(3)
-                .countdownSeconds(15f);
 
-/*
         // Setting-1
         MaterialCamera materialCamera = new MaterialCamera(this)
                 .saveDir(saveDir)
@@ -88,7 +76,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 .labelConfirm(R.string.mcam_use_video)
                 .autoRecordWithDelaySec(3)
                 .countdownSeconds(15f);
-*/
+
 
         materialCamera.start(CAMERA_RQ);
     }
