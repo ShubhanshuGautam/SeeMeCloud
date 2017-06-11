@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_bfdaee7d0ebbe8dbeefb5ccc2ee8218e8c0e1b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_851351d5b5ae1b4155c49eaeebfe6cadee4780df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.afollestad/easyvideoplayer/0.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7c9ef64fc4b3c21a9b584017a93d7fe739ae711a">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.afollestad-easyvideoplayer-0.3.0_7d3764a1be32a442dddf3bbd666449668ce72ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_15102b96f06c931254fb0abd82809b4dcb653a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_2fd84d51a10012d8fffcb74f1977c304c59ffa86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_955116e19103a79c3ea2690a145cbb87e3867ddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/me.zhanghai.android.materialprogressbar-library-1.3.0_b79b2262cee5702c25c07a452d96bb19a05a2728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7da97e0a76ca4703a9f3188e922c20ad2746dd6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_ef10e2b812e8b08100cab44899710c00a2704516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_c8a4b7878d549e8a7233f65786ace13d500183cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_79f4766fd1d73a4ff05569a2e632beb7f9bd760d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_75058e9e5b451a879f8fe5a6a110fb6bab16f9b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.0.0_63c1daa623f99bf843e4bafe9e3fd17153747bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_a1afcd0186cd16a3a9cc42c0c2c3153bdc344c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_a271ee955fdc84f9c724a7574b7dd6339959a2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="16795a75616fe3ba9df9ae4af09202145e3a26dc">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.afollestad.material-dialogs-core-0.9.1.0_4cfd14449cf2c0a1d4103891271a1885e4178f93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/exploded-aar/com.afollestad/library/0.4.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8025536bd873ca3f0248e4c3b16fb68be630beae">
+        <dex dex="/Users/Gautam/Documents/GitHub Projects/Android/material-camera-master/sample/build/intermediates/pre-dexed/debug/com.afollestad-library-0.4.4_4300368e0e0609b08f216c1718603803b1001746.jar" />
+    </item>
+
+</items>
